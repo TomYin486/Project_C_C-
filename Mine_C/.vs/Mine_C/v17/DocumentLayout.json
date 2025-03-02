@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code-GitHub\\Project_C_C-\\Mine_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16414317-C18C-4041-96E6-BE0135B90916}|Mine_C\\Mine_C.vcxproj|D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\Game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16414317-C18C-4041-96E6-BE0135B90916}|Mine_C\\Mine_C.vcxproj|solutionrelative:Mine_C\\Game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16414317-C18C-4041-96E6-BE0135B90916}|Mine_C\\Mine_C.vcxproj|D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16414317-C18C-4041-96E6-BE0135B90916}|Mine_C\\Mine_C.vcxproj|solutionrelative:Mine_C\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16414317-C18C-4041-96E6-BE0135B90916}|Mine_C\\Mine_C.vcxproj|D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16414317-C18C-4041-96E6-BE0135B90916}|Mine_C\\Mine_C.vcxproj|solutionrelative:Mine_C\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\Game.h",
+              "RelativeDocumentMoniker": "Mine_C\\Game.h",
+              "ToolTip": "D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\Game.h",
+              "RelativeToolTip": "Mine_C\\Game.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-02T13:17:49.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\test.c",
+              "RelativeDocumentMoniker": "Mine_C\\test.c",
+              "ToolTip": "D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\test.c",
+              "RelativeToolTip": "Mine_C\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-02T13:17:37.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.c",
+              "DocumentMoniker": "D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\Game.c",
+              "RelativeDocumentMoniker": "Mine_C\\Game.c",
+              "ToolTip": "D:\\code-GitHub\\Project_C_C-\\Mine_C\\Mine_C\\Game.c",
+              "RelativeToolTip": "Mine_C\\Game.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-02T13:17:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
