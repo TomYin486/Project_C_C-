@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code-GitHub\\Project_C_C-\\Snake-C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F57944D-6938-4046-9928-89283B51EEEA}|Snake-C\\Snake-C.vcxproj|D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F57944D-6938-4046-9928-89283B51EEEA}|Snake-C\\Snake-C.vcxproj|solutionrelative:Snake-C\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F57944D-6938-4046-9928-89283B51EEEA}|Snake-C\\Snake-C.vcxproj|D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F57944D-6938-4046-9928-89283B51EEEA}|Snake-C\\Snake-C.vcxproj|solutionrelative:Snake-C\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F57944D-6938-4046-9928-89283B51EEEA}|Snake-C\\Snake-C.vcxproj|D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F57944D-6938-4046-9928-89283B51EEEA}|Snake-C\\Snake-C.vcxproj|solutionrelative:Snake-C\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "snake.h",
+              "DocumentMoniker": "D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\snake.h",
+              "RelativeDocumentMoniker": "Snake-C\\snake.h",
+              "ToolTip": "D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\snake.h",
+              "RelativeToolTip": "Snake-C\\snake.h",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-11T12:36:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "snake.c",
+              "DocumentMoniker": "D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\snake.c",
+              "RelativeDocumentMoniker": "Snake-C\\snake.c",
+              "ToolTip": "D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\snake.c",
+              "RelativeToolTip": "Snake-C\\snake.c",
+              "ViewState": "AgIAALoBAAAAAAAAAAAUwMcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-11T12:36:23.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\test.c",
+              "RelativeDocumentMoniker": "Snake-C\\test.c",
+              "ToolTip": "D:\\code-GitHub\\Project_C_C-\\Snake-C\\Snake-C\\test.c",
+              "RelativeToolTip": "Snake-C\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-11T12:36:09.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
